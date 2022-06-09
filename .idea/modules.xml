@@ -3,6 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Design_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/abstract_factory/abstract_factory.iml" filepath="$PROJECT_DIR$/creational/java/abstract_factory/abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/behavioral.iml" filepath="$PROJECT_DIR$/behavioral/behavioral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/builder/builder.iml" filepath="$PROJECT_DIR$/creational/java/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/creational.iml" filepath="$PROJECT_DIR$/creational/creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational_old/creational1.iml" filepath="$PROJECT_DIR$/creational_old/creational1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/creational/java/factory_method/factory_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/java.iml" filepath="$PROJECT_DIR$/creational/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/jv/jv.iml" filepath="$PROJECT_DIR$/behavioral/jv/jv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/prototype/prototype.iml" filepath="$PROJECT_DIR$/creational/java/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/java/singleton/singleton.iml" filepath="$PROJECT_DIR$/creational/java/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/jv/state/state.iml" filepath="$PROJECT_DIR$/behavioral/jv/state/state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/structural.iml" filepath="$PROJECT_DIR$/structural/structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/jv/template_method/template_method.iml" filepath="$PROJECT_DIR$/behavioral/jv/template_method/template_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/jv/visitor/visitor.iml" filepath="$PROJECT_DIR$/behavioral/jv/visitor/visitor.iml" />
     </modules>
   </component>
 </project>
