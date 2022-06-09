@@ -1,0 +1,2 @@
+Merhaba bu dizin içerisinde yer alan projede neler var?
+- Bir araba üretim fabrikası kurgulanmıştır. bu fabrika kendisine verilen marka bilgisine göre toplamda 3 farklı markada araç üretebilmektedir.Bu araçlar Car sınıfından implemente edilmektedir. CarCreator sınıfı ise parametre olarak aldığı marka bilgisine göre Car tipinde bir araç üretmrktedir.

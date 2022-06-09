@@ -1,0 +1,1 @@
+Yapıcı tasarım deseni ile bir örnek oluşturulacaktır.
