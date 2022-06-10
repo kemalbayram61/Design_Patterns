@@ -3,4 +3,18 @@ public class RectangleToTriangleAdapter implements Shape{
     public RectangleToTriangleAdapter(Rectangle rectangle){
         this.rectangle = rectangle;
     }
+    @Override
+    public void draw() {
+
+    }
+
+    @Override
+    public void getWidth() {
+
+    }
+
+    @Override
+    public void getHeight() {
+
+    }
 }
