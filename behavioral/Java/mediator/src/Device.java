@@ -1,9 +1,8 @@
 public abstract class Device {
 
-    //TODO: mediator type update
-    protected String mediator;
+    protected Mediator mediator;
 
-    public Device(String mediator){
+    public Device(Mediator mediator){
         this.mediator = mediator;
     }
 
