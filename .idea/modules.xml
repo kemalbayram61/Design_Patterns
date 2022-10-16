@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/creational/java/java.iml" filepath="$PROJECT_DIR$/creational/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioral/Java/mediator/mediator.iml" filepath="$PROJECT_DIR$/behavioral/Java/mediator/mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/java/prototype/prototype.iml" filepath="$PROJECT_DIR$/creational/java/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/java/proxy/proxy.iml" filepath="$PROJECT_DIR$/structural/java/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/java/singleton/singleton.iml" filepath="$PROJECT_DIR$/creational/java/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioral/Java/state/state.iml" filepath="$PROJECT_DIR$/behavioral/Java/state/state.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/structural.iml" filepath="$PROJECT_DIR$/structural/structural.iml" />
